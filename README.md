@@ -1,6 +1,7 @@
 # Dead Simple PY encryptor / decyrptor
 Easy text encryptor/decryptor. Enter your words, enter a key(int) shifts it as much as your value of the key.
 Works same as Caesar Cypher. You can set shift value to 13 if you want to use ROT13.
+ 
 
 
 
@@ -19,10 +20,19 @@ Works same as Caesar Cypher. You can set shift value to 13 if you want to use RO
 1.If you want you can execute code from an IDE
 2.Or you can use executable.
 
+It works like this:
 ```
-mod = enc // encrpt mode , dec // decrypt mode
-key = an integer.
+What would you like to do?
+1. Encrypt
+2. Decrypt
+1 
 
+Write something to encrypt
+CEM
+Enter shift value (Enter 13 for ROT13)
+3
+OUTPUT:
+FHP
 
 
 ## License / Lisans
